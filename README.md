@@ -1,5 +1,3 @@
-
-```
 # Exercise-05a-Procedural-Generation
 
 Exercise for MSCH-C220
@@ -20,5 +18,5 @@ None
 
 ## Created by 
 
-Jason Francis
-```
+Taylor Braunsdorf
+
